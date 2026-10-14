@@ -58,13 +58,13 @@ Isi secara ringkas. Untuk bagian asal, cukup gunakan informasi umum yang nyaman 
 
 ## 5. Checklist Sebelum Membuat Pull Request
 
-- [ ] File profil berada di folder `participants/`.
-- [ ] Nama file mengikuti aturan penamaan.
-- [ ] Isi profil menggunakan template yang tersedia.
-- [ ] Saya hanya menambahkan atau mengubah file yang menjadi tanggung jawab saya.
-- [ ] Tidak ada informasi sensitif yang dipublikasikan.
-- [ ] Commit message menjelaskan perubahan.
-- [ ] Pull Request ditujukan ke repository sumber Study Jam DevOps, bukan hanya ke fork saya sendiri.
+- [x] File profil berada di folder `participants/`.
+- [x] Nama file mengikuti aturan penamaan.
+- [x] Isi profil menggunakan template yang tersedia.
+- [x] Saya hanya menambahkan atau mengubah file yang menjadi tanggung jawab saya.
+- [x] Tidak ada informasi sensitif yang dipublikasikan.
+- [x] Commit message menjelaskan perubahan.
+- [x] Pull Request ditujukan ke repository sumber Study Jam DevOps, bukan hanya ke fork saya sendiri.
 
 ## 6. Review dan Merge
 
